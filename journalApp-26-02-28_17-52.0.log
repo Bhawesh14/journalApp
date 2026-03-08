@@ -1,5 +1,5 @@
-17:52: 53. 202 [main] INFO  o.s.t.c.s.AnnotationConfigContextLoaderUtils - Could not detect default configuration classes for test class [net.engineeringdigest.journalApp.JournalAppApplicationTests]: JournalAppApplicationTests does not declare any static, non-private, non-final, nested classes annotated with @Configuration.
-17:52: 53. 371 [main] INFO  o.s.b.t.c.SpringBootTestContextBootstrapper - Found @SpringBootConfiguration net.engineeringdigest.journalApp.JournalApplication for test class net.engineeringdigest.journalApp.JournalAppApplicationTests
+17:52: 53. 202 [main] INFO  o.s.t.c.s.AnnotationConfigContextLoaderUtils - Could not detect default configuration classes for test class [net.engineeringdigest.journal_app.JournalAppApplicationTests]: JournalAppApplicationTests does not declare any static, non-private, non-final, nested classes annotated with @Configuration.
+17:52: 53. 371 [main] INFO  o.s.b.t.c.SpringBootTestContextBootstrapper - Found @SpringBootConfiguration net.engineeringdigest.journal_app.JournalApplication for test class net.engineeringdigest.journal_app.JournalAppApplicationTests
 17:52: 53. 953 [main] INFO  n.e.j.JournalAppApplicationTests - Starting JournalAppApplicationTests using Java 17.0.18 with PID 24752 (started by bhawesh.gandhi in D:\MISC\SB\journalApp\journalApp)
 17:52: 53. 957 [main] INFO  n.e.j.JournalAppApplicationTests - The following 1 profile is active: "prod"
 17:52: 54. 831 [main] INFO  o.s.d.r.c.RepositoryConfigurationDelegate - Bootstrapping Spring Data MongoDB repositories in DEFAULT mode.

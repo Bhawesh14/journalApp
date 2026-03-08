@@ -6,7 +6,7 @@ spring:
 #  level:
 #    net:
 #      engineeringdigest:
-#        journalApp: DEBUG
+#        journal_app: DEBUG
 
 #spring:
 #  data:
